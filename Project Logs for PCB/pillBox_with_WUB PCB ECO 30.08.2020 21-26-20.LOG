@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=D1-25
+Removed Pin From Net: NetName=SWDIO Pin=X1-2
+Removed Pin From Net: NetName=SWCLK Pin=X1-3
+Added Pin To Net: NetName=SWCLK Pin=X1-2
+Added Pin To Net: NetName=SWDIO Pin=X1-3
+Added Member To Class: ClassName=Sheet Member=Component R1 R
