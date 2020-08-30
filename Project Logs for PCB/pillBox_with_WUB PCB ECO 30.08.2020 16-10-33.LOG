@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=X2 NewDesignator=X4
+Change Component Designator: OldDesignator=X3 NewDesignator=X5
+Added Component: Designator=X2(PinConnect2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X3(PinConnect2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetB1_8 Pin=B1-8
+Added Pin To Net: NetName=NetB1_8 Pin=X2-1
+Added Net: Name=NetB1_8
+Added Pin To Net: NetName=NetB1_9 Pin=B1-9
+Added Pin To Net: NetName=NetB1_9 Pin=X3-1
+Added Net: Name=NetB1_9
+Added Member To Class: ClassName=Sheet Member=Component X4 PinConnect
+Added Member To Class: ClassName=Sheet Member=Component X5 PinConnect

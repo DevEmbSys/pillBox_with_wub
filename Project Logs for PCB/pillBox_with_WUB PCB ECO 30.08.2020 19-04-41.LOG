@@ -1,0 +1,51 @@
+Removed Member From Class: ClassName=Sheet Member=D?
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Added Component: Designator=R1(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X6(PinConnect2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X7(PinConnect2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X8(PinConnect2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X9(PinConnect2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D1-5
+Added Pin To Net: NetName=GND Pin=D1-14
+Added Pin To Net: NetName=GND Pin=D1-20
+Added Pin To Net: NetName=3v3 Pin=D1-23
+Added Pin To Net: NetName=3v3 Pin=R1-2
+Added Pin To Net: NetName=3v3 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=X9-1
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD1_4 New Net Name=NetD2_4
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=X7-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=X8-1
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD1_17 Pin=D1-17
+Added Pin To Net: NetName=NetD1_17 Pin=X6-1
+Added Net: Name=NetD1_17
+Added Pin To Net: NetName=SCL Pin=D1-8
+Added Pin To Net: NetName=SCL Pin=R2-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=B1-6
+Added Pin To Net: NetName=SDA Pin=B1-7
+Added Pin To Net: NetName=SDA Pin=D1-11
+Added Pin To Net: NetName=SDA Pin=R1-1
+Added Net: Name=SDA
+Added Member To Class: ClassName=Sheet Member=Component D2 bq21040
+Added Member To Class: ClassName=Sheet Member=Component R4 R
+Added Member To Class: ClassName=Sheet Member=Component R5 10k
+Added Member To Class: ClassName=Sheet Member=Component X6 PinConnect
+Added Member To Class: ClassName=Sheet Member=Component X7 PinConnect
+Added Member To Class: ClassName=Sheet Member=Component X8 PinConnect
+Added Member To Class: ClassName=Sheet Member=Component X9 PinConnect

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SWDIO Pin=B1-12
+Added Pin To Net: NetName=SWCLK Pin=B1-13
+Added Member To Class: ClassName=Sheet Member=Component X2 PinConnect
+Added Member To Class: ClassName=Sheet Member=Component X3 PinConnect

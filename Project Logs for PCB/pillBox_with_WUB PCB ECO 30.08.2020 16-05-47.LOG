@@ -1,0 +1,59 @@
+Change Component Designator: OldDesignator=B? NewDesignator=B1
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=XTAL? NewDesignator=XTAL1
+Added Component: Designator=R1(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3v3 Pin=B1-2
+Added Pin To Net: NetName=3v3 Pin=B1-10
+Added Net: Name=3v3
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-4
+Added Pin To Net: NetName=GND Pin=B1-11
+Added Pin To Net: NetName=GND Pin=D1-5
+Added Pin To Net: NetName=GND Pin=D1-5
+Added Pin To Net: NetName=GND Pin=D2-5
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=XTAL1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=XTAL1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_4 Pin=D2-4
+Added Pin To Net: NetName=NetD2_4 Pin=R2-2
+Added Net: Name=NetD2_4
+Added Pin To Net: NetName=SWCLK Pin=X1-3
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=X1-2
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=Vbat_sense Pin=B1-5
+Added Pin To Net: NetName=Vbat_sense Pin=D2-3
+Added Pin To Net: NetName=Vbat_sense Pin=R1-2
+Added Net: Name=Vbat_sense
+Added Pin To Net: NetName=Vbat Pin=B1-3
+Added Pin To Net: NetName=Vbat Pin=D2-2
+Added Pin To Net: NetName=Vbat Pin=R1-1
+Added Net: Name=Vbat
+Added Pin To Net: NetName=Vusb Pin=D2-6
+Added Pin To Net: NetName=Vusb Pin=X1-1
+Added Net: Name=Vusb
+Added Member To Class: ClassName=Sheet Member=Component D1 PCF85063ATL
+Added Member To Class: ClassName=Sheet Member=Component R1 100k
+Added Member To Class: ClassName=Sheet Member=Component R2 R
+Added Member To Class: ClassName=Sheet Member=Component R3 10k

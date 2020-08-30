@@ -1,0 +1,5 @@
+Added Component: Designator=D?(TSSOP14)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet Member=Component D? NTS0304EPW
+Added Member To Class: ClassName=Sheet Member=Component X2 PinConnect
+Added Member To Class: ClassName=Sheet Member=Component X3 PinConnect

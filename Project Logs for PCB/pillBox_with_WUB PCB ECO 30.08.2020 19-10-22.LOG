@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SDA Pin=B1-7
+Added Pin To Net: NetName=SCL Pin=B1-7
+Added Member To Class: ClassName=Sheet Member=Component D1 ZSSC3230
+Added Member To Class: ClassName=Sheet Member=Component R1 R
+Added Member To Class: ClassName=Sheet Member=Component R2 R

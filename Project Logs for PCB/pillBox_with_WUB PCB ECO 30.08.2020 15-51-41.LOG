@@ -1,0 +1,6 @@
+Added Component: Designator=D?(DFN2626-10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XTAL?(NX3215SA)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet Member=Component D? PCF85063ATL
+Added Member To Class: ClassName=Sheet Member=Component XTAL? 32.768 kHz
