@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB.PrjPCB]
+   Generated File[pillBox_with_WUB-RoundHoles.TXT]
+   Generated File[pillBox_with_WUB-SlotHoles.TXT]
+   Generated File[pillBox_with_WUB.LDP]
+   Generated File[pillBox_with_WUB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:58:15 On 31.08.2020
