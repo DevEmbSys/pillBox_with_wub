@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: pillBox_with_WUB.PcbDoc   31.08.2020  22:58:15
+NCDrill File Report For: pillBox_with_WUB.PcbDoc   01.09.2020  7:51:44
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,10 +8,10 @@ ASCII SlotHoles File : pillBox_with_WUB-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             18        PTH        0.00mm (0.00inch)
-T2      0.5mm (20mil)                                             Slot              2         PTH        0.00mm (0.00inch)
-T3      0.55mm (22mil)                                            Slot              2         PTH        0.00mm (0.00inch)
-T4      0.6mm (24mil)                                             Round             21        PTH        0.00mm (0.00inch)
+T1      8mil (0.2mm)                                              Round             18        PTH        2.09inch (52.96mm)
+T2      20mil (0.5mm)                                             Slot              2         PTH        0.60inch (15.33mm)
+T3      22mil (0.55mm)                                            Slot              2         PTH        0.43inch (10.90mm)
+T4      24mil (0.6mm)                                             Round             21        PTH        3.30inch (83.80mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              43
 

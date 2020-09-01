@@ -1,6 +1,6 @@
-DRC Rules Export File for PCB: G:\AltiumGit\pillBox_with_wub\pillBox_with_WUB.PcbDoc
-RuleKind=Width|RuleName=Width_power|Scope=Board|Minimum=7.87
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.72
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+DRC Rules Export File for PCB: F:\GitAltium\pillBox_with_wub_sim7090g\pillBox_with_wub\pillBox_with_WUB.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.72
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_power|Scope=Board|Minimum=7.87

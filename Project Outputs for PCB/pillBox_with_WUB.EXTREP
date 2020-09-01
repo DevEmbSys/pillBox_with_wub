@@ -1,15 +1,15 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: pillBox_with_WUB.GBR   31.08.2020  22:57:59
+Gerber File Extension Report For: pillBox_with_WUB.GBR   01.09.2020  7:51:25
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.GTO                Top Overlay                             
-.GTS                Top Solder                              
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
